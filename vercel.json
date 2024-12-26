@@ -5,6 +5,6 @@
     }
   },
   "env": {
-    "DISCORD_PUBLIC_KEY": "@discord_public_key"
+    "DISCORD_PUBLIC_KEY": "discord_public_key"
   }
 }
