@@ -1,0 +1,14 @@
+{
+  "name": "discord-vercel-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot deployed using GitHub and Vercel",
+  "main": "api/interaction.js",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel deploy"
+  },
+  "dependencies": {
+    "discord-interactions": "^5.0.1",
+    "dotenv": "^16.0.3"
+  }
+}
