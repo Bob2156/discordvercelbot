@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/interaction.js": {
+      "runtime": "nodejs18.x"
+    }
+  },
+  "env": {
+    "DISCORD_PUBLIC_KEY": "@discord_public_key"
+  }
+}
